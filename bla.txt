@@ -1,2 +1,3 @@
 Matej nema pisu
 linija 2
+ova linija koda govori o meni ali ja zapravo ne postojim
